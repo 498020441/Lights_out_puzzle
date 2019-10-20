@@ -1,6 +1,6 @@
 import sys
 import tkinter
-import mxl482 as homework2
+import bfs_searching_solver as homework2
 
 class Light(tkinter.Canvas):
 
