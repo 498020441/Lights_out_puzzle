@@ -1,3 +1,6 @@
+import random
+import copy
+
 class LightsOutPuzzle(object):
     def __init__(self, board):
         self.board = board
